@@ -1,0 +1,30 @@
+{
+  "name": "project-for-backend-customer-and-card",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @Shiv-Raj-Singh\r - 👀 I’m interested in ...\r - 🌱 I’m currently learning ...\r - 💞️ I’m looking to collaborate on ...\r - 📫 How to reach me ...",
+  "main": "app.js",
+  "scripts": {
+    "start": "src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shiv-Raj-Singh/Project-for-backend-Customer-and-Card.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shiv-Raj-Singh/Project-for-backend-Customer-and-Card/issues"
+  },
+  "homepage": "https://github.com/Shiv-Raj-Singh/Project-for-backend-Customer-and-Card#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.8.1",
+    "nodemon": "^2.0.20"
+  }
+}
